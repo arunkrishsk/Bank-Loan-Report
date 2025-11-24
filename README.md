@@ -1,3 +1,1 @@
-In order to monitor and assess bank's lending activities and performance, we created a comprehensive Bank Loan Report. 
-This report aims to provide insights into key loan-related metrics and their changes over time.
-The report will help banks/lenders to make data-driven decisions, track bank loan portfolio's health, and identify trends that can inform bank’s lending strategies.
+An end-to-end Power BI project that transforms raw [Bank's/Financial_loan_data] data into an interactive dashboard, showcasing data cleaning with Power Query, star-schema modeling, DAX measures, and user-friendly visuals for key business KPIs.
