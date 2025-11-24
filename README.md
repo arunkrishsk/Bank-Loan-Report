@@ -4,9 +4,9 @@
 ## Summary DashBoard
 ## Key Performance Indicators (KPIs) Requirements:
 Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, Average Debt-to-Income Ratio (DTI)
-Good Loan KPIs: 
+## Good Loan KPIs: 
 Good Loan Application Percentage, Good Loan Applications, Good Loan Funded Amount, Good Loan Total Received Amount
-Bad Loan KPIs:
+## Bad Loan KPIs:
 Bad Loan Application Percentage, Bad Loan Applications, Bad Loan Funded Amount, Bad Loan Total Received Amount
 
 - <a href="https://github.com/arunkrishsk/Bank-Loan-Report/blob/main/Bank_Loan_Report_Summary.jpg">Summary_Dashboard</a>
